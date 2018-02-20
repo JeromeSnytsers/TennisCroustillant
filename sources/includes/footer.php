@@ -1,5 +1,5 @@
+</body>
 <footer>
-<?php
 /**
  * Created by PhpStorm.
  * User: Max
@@ -7,8 +7,7 @@
  * Time: 10:17
  */
 
-© 2018 Semi-Croustillant, Inc.
+    <p>© 2018 Semi-Croustillant, Inc.</p>
 
-?>
 
 </footer>
