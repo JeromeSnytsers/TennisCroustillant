@@ -3,31 +3,13 @@
 ?>
     <div class="container">
         <div class="col-md-offset-1 col-md-6">Tournois et matchs
-            <div class="row">
-                tournoi
-            </div>
-            <div class="row">
-                match
-            </div>
-            <div class="row">
-                match
-            </div>
-            <div class="row">
+            <div class="col-md-12">
                 tournoi
             </div>
         </div>
-        <div class="col-md-offset-1 col-md-3">
-            <div class="row">
-                info
-            </div>
-            <div class="row">
-                info
-            </div>
-            <div class="row">
-                info
-            </div>
-        </div>
+        <div class="col-md-offset-1 col-md-3"> les infos</div>
     </div>
+
 <?php
 include_once '../sources/includes/footer.php';
 ?>
