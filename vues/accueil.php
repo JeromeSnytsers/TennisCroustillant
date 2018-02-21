@@ -17,7 +17,7 @@
                 </tr>
             </table>
         </div>
-        <div class="col-md-4 col-lg-4">
+        <div class="col-md-3 col-lg-3">
             <table class="col-md-12 col-lg-12">
                 <tr>
                     <th>Twitter</th>
