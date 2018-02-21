@@ -7,7 +7,7 @@
         <div class="col-md-8 col-lg-8">
             <table class="col-md-12 col-lg-12">
                 <tr>
-                    <th>Tournois à venir</th>
+                    <th>Tournois Ã  venir</th>
                 </tr>
                 <tr>
                     <td>Open Sud France - 20/03/2018</td>
@@ -23,10 +23,10 @@
                     <th>Twitter</th>
                 </tr>
                 <tr>
-                    <td>Tweet N°1</td>
+                    <td>Tweet NÂ°1</td>
                 </tr>
                 <tr>
-                    <td>Tweet N°2</td>     
+                    <td>Tweet NÂ°</td>
                 </tr>
             </table>
         </div>
